@@ -73,5 +73,5 @@ for (i in 1:length(years)){
 # Go ahead and manually move it up a level and delete that subfolder.
 
 
-
+#download all of these, see about getting an index of vulnerability per sex per wave per state
 
